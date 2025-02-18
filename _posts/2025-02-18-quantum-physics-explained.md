@@ -10,7 +10,8 @@ The aim of quantum physics is to **explain the dynamics of elementary particles*
 
 Unlike classical physics, which governs the macroscopic world that we experience on a daily basis, quantum physics describes **the counterintuitive laws of the microscopic universe**.
 
-![classical_mechanics_vs_quantum_mechanics](<./img/img_2025-02-18-quantum-physics-explained/classical_mechanics_vs_quantum_mechanics.png> “Source: [EWT project](https://energywavetheory.com/spacetime/mechanics/) — in this article I use the terms mechanics and physics interchangeably.”)
+![classical_mechanics_vs_quantum_mechanics](<./img/img_2025-02-18-quantum-physics-explained/classical_mechanics_vs_quantum_mechanics.png>) 
+*Source: [EWT project](https://energywavetheory.com/spacetime/mechanics/) — in this article I use the terms mechanics and physics interchangeably.*
 
 Indeed, at the quantum scale, particles can exist in multiple states simultaneously, or become instantly connected across vast distances. The Nobel laureate and physicist Richard Feynman, one of the fathers of quantum computing, used to joke: “I think I can safely say that **nobody really understands quantum mechanics**”.
 
@@ -40,7 +41,8 @@ Further discovery followed!
 
 In 1913, **Niels Bohr** (Nobel 1922) proposed **a model of the atom** where electrons have specific energy levels, and they can “jump” between these levels by absorbing or emitting quanta of energy [3]. This model is now taught [in first class of high school in France](https://www.snes.edu/IMG/pdf/physique_annexe_2e_bo.pdf)!
 
-![bohr_atomic_model](<./img/img_2025-02-18-quantum-physics-explained/bohr_atomic_model.png> “Bohr’s atomic model (1913).”)
+![bohr_atomic_model](<./img/img_2025-02-18-quantum-physics-explained/bohr_atomic_model.png>)
+*Bohr’s atomic model (1913).*
 
 Then, in 1923, **Louis de Broglie** (Nobel 1929) proposed **the wave-particle dualit**y, a concept suggesting that not only light (Einstein, 1911), but ALL quantum particles, like electrons, exhibit both wave-like and particle-like properties [[4](https://www.academie-sciences.fr/pdf/dossiers/Broglie/Broglie_pdf/CR1923_p507.pdf)], as shown by [the double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment).
 
@@ -50,7 +52,8 @@ And I could mention many other revolutionary scientific discoveries in quantum p
 
 The bottom-line is that **it was a period of great scientific discovery**, with intense exchanges between brilliant physicists (such as the Bohr–Einstein debates), that redefined the fundamental laws of physics at the very small scale, and we’ll see how in the next part!
 
-![fifth_solvay_physics_conference](<./img/img_2025-02-18-quantum-physics-explained/fifth_solvay_physics_conference.jpg> “Attendees of the Fifth Solvay Physics Conference in 1927: 17 of the 29 people on this picture were or became Nobel Prize winners!”)
+![fifth_solvay_physics_conference](<./img/img_2025-02-18-quantum-physics-explained/fifth_solvay_physics_conference.jpg>)
+*Attendees of the Fifth Solvay Physics Conference in 1927: 17 of the 29 people on this picture were or became Nobel Prize winners!*
 
 ### The two main principles of quantum physics
 
@@ -67,7 +70,8 @@ Here, a few things must be clarified:
 
 Consequently, it is impossible to predict the exact position of a quantum system before measuring it. **Quantum physics is probabilistic**!
 
-![superposition](<./img/img_2025-02-18-quantum-physics-explained/superposition.png> “A quantum object is in superposition of states, with probabilistic positions.”)
+![superposition](<./img/img_2025-02-18-quantum-physics-explained/superposition.png>)
+*A quantum object is in superposition of states, with probabilistic positions.*
 
 This principle inspired the famous thought experiment from **Schrödinger**, the cat in a box that is in a superposition of states: dead + alive!
 
