@@ -71,6 +71,7 @@ Here, a few things must be clarified:
 Consequently, it is impossible to predict the exact position of a quantum system before measuring it. **Quantum physics is probabilistic**!
 
 ![superposition](</img/img_2025-02-18-quantum-physics-explained/superposition.png>)
+
 *A quantum object is in superposition of states, with probabilistic positions.*
 
 This principle inspired the famous thought experiment from **Schrödinger**, the cat in a box that is in a superposition of states: dead + alive!
