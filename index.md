@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This blog explores the transition of quantum computing from deep tech to market adoption.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I'm currently a business developer in the quantum computing industry. In the past, I worked as a data scientist alongside my studies (HEC and ENSAE). 
